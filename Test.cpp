@@ -15,8 +15,7 @@ void even_only(int a){
 }
 
 int main(){
-even_only(6'
-);
+even_only(6);
 
 
 }
